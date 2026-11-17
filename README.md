@@ -29,7 +29,7 @@ I build **self-running software** — tools and agents that work without hand-ho
 | Project | What |
 |---|---|
 | [envguard](https://github.com/Hontaa/envguard) | Python-native `.env` / config validator — schema check, secret-leak scan, drift diff |
-| [SpaceTycoon](https://github.com/Hontaa) | Roblox tycoon (private WIP) |
+| [SpaceTycoon](https://github.com/Hontaa/SpaceTycoon) | Roblox tycoon (private WIP) |
 
 ## 🧰 Stack
 
